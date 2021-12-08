@@ -1,6 +1,8 @@
 # 这个是基于yolov5 训练和使用的一个针对fps射击类游戏自动射击的测试程序，
 # 请勿用于非法用途，
 ## 使用方法 python main-new.py
+### 主要文件 main-new.py, fpsdetect.py, utils/fpsutils.py，修改对应参数即可
+### 模型文件在pt-list
 ## 下面是yolov5的一些介绍和使用方法
 
 <div align="center">
