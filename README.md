@@ -1,3 +1,8 @@
+# 这个是基于yolov5 训练和使用的一个针对fps射击类游戏自动射击的测试程序，
+# 请勿用于非法用途，
+## 使用方法 python main-new.py
+## 下面是yolov5的一些介绍和使用方法
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
