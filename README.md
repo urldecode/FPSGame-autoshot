@@ -3,6 +3,14 @@
 ## 使用方法 python main-new.py
 ### 主要文件 main-new.py, fpsdetect.py, utils/fpsutils.py，修改对应参数即可
 ### 模型文件在pt-list
+
+## 我的本地环境
+   python 3.8.10 \
+   pywin32 302 \
+   cuda Build cuda_11.6.r11.6 \
+   pytorch 1.10.0+cu113 \
+   torchvision 0.11.1+cu113  
+
 ## 下面是yolov5的一些介绍和使用方法
 
 <div align="center">
